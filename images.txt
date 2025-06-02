@@ -15,3 +15,10 @@ redis
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 docker.n8n.io/n8nio/n8n:latest
+
+# 电商项目
+mysql:8.0.4
+redis:5.0.2
+elasticsearch:7.6.1
+nacos/nacos-server:v2.1.0
+apache/rocketmq:4.9.7
